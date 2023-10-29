@@ -1,0 +1,23 @@
+Ime:Viktor
+Prezime:Djarmati
+Username:viktor.djarmati
+Sifra:viktor1
+Broj dinarskog racuna:123456789101231231
+Broj deviznoh racuna:123456789101231232
+Pocetno stanje dinarskog racuna:8193
+Pocetno stanje deviznog racuna:103
+
+
+
+Ime:Igor
+Prezime:Djarmati
+Username:igor.djarmati
+Sifra:igor
+Broj dinarskog racuna:123456789101231233
+Broj deviznog racuna:123456789101231234
+Pocetno stanje dinarskog racuna:11456
+Pocetno stanje deviznog racuna:100
+
+-ADMINISTRATOR-
+Username: veljko.krstic
+Sifra:veljko123!
